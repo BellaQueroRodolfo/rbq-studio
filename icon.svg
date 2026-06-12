@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+<rect x="0" y="0" width="400" height="400" rx="72" fill="#F5C518"/>
+<path d="M200 38 A105 105 0 0 1 305 143" fill="none" stroke="#152D47" stroke-width="26" stroke-linecap="round"/>
+<path d="M95 183 A105 105 0 0 1 200 288" fill="none" stroke="#152D47" stroke-width="26" stroke-linecap="round"/>
+<line x1="118" y1="78" x2="282" y2="248" stroke="#152D47" stroke-width="9" stroke-linecap="round" opacity="0.22"/>
+<circle cx="305" cy="143" r="15" fill="#152D47"/>
+<circle cx="95" cy="183" r="15" fill="#152D47"/>
+<polygon points="200,98 230,150 200,202 170,150" fill="#152D47"/>
+<line x1="25" y1="308" x2="375" y2="308" stroke="#152D47" stroke-width="1.5" opacity="0.2"/>
+<text x="200" y="357" text-anchor="middle" font-family="Poppins,sans-serif" font-weight="800" font-size="52" fill="#152D47" letter-spacing="5">RBQ-S</text>
+</svg>

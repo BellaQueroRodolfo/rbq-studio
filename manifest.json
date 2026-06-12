@@ -1,0 +1,30 @@
+{
+  "name": "RBQ Studio",
+  "short_name": "RBQ-S",
+  "description": "Instagram content production for @rbellaquero",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#152D47",
+  "theme_color": "#F5C518",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
